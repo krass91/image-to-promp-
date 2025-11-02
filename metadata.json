@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Image to Prompt Generator",
+  "description": "An application that analyzes an uploaded image using the Gemini API and generates a detailed, creative text prompt that could be used to recreate a similar image.",
+  "requestFramePermissions": []
+}
